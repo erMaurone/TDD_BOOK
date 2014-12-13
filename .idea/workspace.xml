@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc7a89fe-fc79-4117-ae88-d691b94900e1" name="Default" comment="" />
+    <list default="true" id="dc7a89fe-fc79-4117-ae88-d691b94900e1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TDD_BOOK.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="TDD_BOOK.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/AuctionSniperEndToEndTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414434573268" ignored="false" />
     <file path="/ApplicationRunner.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414439633206" ignored="false" />
-    <file path="/pom.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414429271138" ignored="false" />
+    <file path="/pom.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749103885" ignored="false" />
     <file path="/AuctionSniperDriver.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414439647092" ignored="false" />
     <file path="/FakeAuctionServer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414436834075" ignored="false" />
     <file path="/Main.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414445545109" ignored="false" />
-    <file path="/fragment.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414592983021" ignored="false" />
+    <file path="/fragment.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418497792154" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSum.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414526278309" ignored="false" />
     <file path="/ThreeSum.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414523529772" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/int.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414529108506" ignored="false" />
@@ -45,7 +49,7 @@
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/utilsPrinceton/StdArrayIO.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414525537985" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/utilsPrinceton/StdDraw.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414525561043" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/ThreeSum.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414530792991" ignored="false" />
-    <file path="/a.dummy" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414527674861" ignored="false" />
+    <file path="/a.dummy" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415659401387" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSumCubicPerformance.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414531760800" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSumN2LogNPerformance.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414532266140" ignored="false" />
     <file path="/ThreeSumN2LogNPerformance.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414532229543" ignored="false" />
@@ -57,14 +61,14 @@
     <file path="/IntFileGenerator.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414547426030" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/generated_10000_ints.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414541900612" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSumDeluxe.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414592913361" ignored="false" />
-    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSum/ThreeSumDeluxe.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414592986371" ignored="false" />
-    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSum/ThreeSumSlow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414592986371" ignored="false" />
-    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/QuickFindUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414598585717" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSum/ThreeSumDeluxe.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/ThreeSum/ThreeSumSlow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/QuickFindUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
     <file path="/QuickFindUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414594921950" ignored="false" />
-    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/QuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414596373492" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/QuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
     <file path="/QuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414605640047" ignored="false" />
-    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414599422982" ignored="false" />
-    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionPathCompression.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414605447031" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414682352652" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionPathCompression.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
     <file path="/WeightedQuickUnionPathCompression.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414605370723" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lessonOne/ThreeSum/ThreeSumDeluxe.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414605513359" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lessonOne/ThreeSum/ThreeSumSlow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414605513359" ignored="false" />
@@ -75,7 +79,365 @@
     <file path="/BinaryIn.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414608745455" ignored="false" />
     <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/utilsPrinceton/BinaryOut.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414609112740" ignored="false" />
     <file path="/BinaryOut.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414608825917" ignored="false" />
-    <file path="/Dummy.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414609111080" ignored="false" />
+    <file path="/Dummy.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418499425903" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lessonOne/MonteCarloPerculations/Percolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414682299873" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lessonOne/MonteCarloPerculations/PercolationWeightedQuick.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414669177610" ignored="false" />
+    <file path="/PercolationWeightedQuick.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414686190154" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lessonOne/MonteCarloPerculations/PercolationQuickUnion.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414669221289" ignored="false" />
+    <file path="/PercolationQuickUnion.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414669206686" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lessonOne/MonteCarloPerculations/AbstractPercolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414672604662" ignored="false" />
+    <file path="/AbstractPercolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414670265240" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/.idea/modules.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418145405137" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/.idea/workspace.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418507718919" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/MonteCarloPerculations/Percolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415226346003" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/MonteCarloPerculations/PercolationWeightedQuick.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414686372666" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/MonteCarloPerculations/PercolationQuickUnion.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414682352653" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/MonteCarloPerculations/AbstractPercolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414682352653" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/AlgoCourse1.iml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414686145632" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionUFmv.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.groovy" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749297982" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/pom.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751317297" ignored="false" />
+    <file path="/PercolationExperimentTest.groovy" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749291344" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/NFA.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749328407" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Multiway.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749347665" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/MaxPQ.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749338861" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/PolynomialRegression.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749712197" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FlowNetwork.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749353517" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Complex.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749355897" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Date.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749361985" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/QuickFindUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749392417" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/RunLength.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749683215" ignored="false" />
+    <file path="/RunLength.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749683215" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Graph.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749717673" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SparseVector.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749725885" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749734186" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Stack.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415398153708" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ThreeSum.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749740281" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LookupCSV.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414749957806" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SeparateChainingHashST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750044271" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Selection.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750044271" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/EdgeWeightedGraph.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750044271" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Bag.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750632029" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DepthFirstOrder.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750637240" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Digraph.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750687473" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/CC.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750698722" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DirectedEdge.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750706986" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Edge.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750713047" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FFT.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750716910" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FlowEdge.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750721969" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Genome.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751024851" ignored="false" />
+    <file path="/Genome.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750920196" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Transaction.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750876296" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/TopM.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750880378" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ThreeSumFast.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750884730" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/BinaryStdIn.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414758209318" ignored="false" />
+    <file path="/BinaryStdIn.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414750956545" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/BinaryStdOut.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751462420" ignored="false" />
+    <file path="/BinaryStdOut.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751000144" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/InsertionX.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751039309" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/MergeX.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751113643" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/AssignmentProblem.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751140808" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SET.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418293991339" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Queue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751375485" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Cat.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751401373" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/Out.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751510886" ignored="false" />
+    <file path="/Out.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751421420" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/Draw.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414758309700" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/DrawListener.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751500886" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/Picture.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751521219" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/StdAudio.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751534785" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Quick3way.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751602477" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/KruskalMST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414751929446" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/IndexMaxPQ.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757352706" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LongestCommonSubstring.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752315519" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BinarySearchST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752533132" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Topological.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756097984" ignored="false" />
+    <file path="/Topological.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752622908" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Bipartite.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752771700" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FrequencyCounter.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752971129" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/StdIn.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752887790" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414752982787" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/TrieST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753086716" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DijkstraSP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753189706" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/AdjMatrixEdgeWeightedDigraph.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753504657" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BellmanFordSP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753519858" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BTree.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753537109" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SequentialSearchST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753819265" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/IndexMinPQ.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757365970" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Point2D.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753898690" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/MinPQ.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753922768" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FloydWarshall.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753940430" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Quick.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753979031" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Counter.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414753994588" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SuffixArrayX.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754006088" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FordFulkerson.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754015471" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Whitelist.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754031271" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DegreesOfSeparation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754041795" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Cycle.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754056077" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/KWIK.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754079592" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LazyPrimMST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754090648" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ResizingArrayStack.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754108943" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LookupIndex.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754151581" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DepthFirstPaths.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754164464" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DoublingRatio.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754180591" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DepthFirstSearch.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754203241" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/GaussianElimination.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754221208" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/RedBlackBST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754250166" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ResizingArrayQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754269481" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FarthestPair.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754418235" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/UF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754461801" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Quick3string.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754488566" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Simplex.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754511954" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BlackFilter.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754546436" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/MSD.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754568805" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Arbitrage.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754590786" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LSD.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754606984" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LinkedStack.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754623049" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/CollisionSystem.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754656966" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Particle.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754678571" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/MergeBU.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754692327" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Count.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754702914" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/AcyclicSP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754717541" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/RandomSeq.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754750321" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/GREP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754770991" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DirectedDFS.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754787414" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Average.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754803848" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/QuickX.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754835982" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DigraphGenerator.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754852837" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LinkedQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754895472" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LinkedBag.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414754973389" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/KMP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755002066" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Alphabet.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755024726" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BinarySearch.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755054816" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BipartiteMatching.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755080826" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BreadthFirstDirectedPaths.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418164151778" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DirectedCycle.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755127200" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DoublingTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755155750" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/FileIndex.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755177339" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/GrahamScan.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755195543" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/GraphGenerator.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755214121" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Heap.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755229812" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/HexDump.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755240870" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Huffman.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755261268" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Interval1D.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755286889" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Interval2D.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755306288" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/PrimMST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755325653" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ResizingArrayBag.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755343625" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SymbolGraph.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755362056" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/TarjanSCC.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755374835" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/TST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414755389306" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/PictureDump.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756047153" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BinaryDump.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756124439" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BoyerMoore.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756249884" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/KosarajuSharirSCC.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756298174" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BoruvkaMST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756599219" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SymbolDigraph.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756467705" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/BreadthFirstPaths.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756630435" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/ClosestPair.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756785392" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/CPM.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756852331" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DeDup.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756889897" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/DepthFirstDirectedPaths.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756942074" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Insertion.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415612269482" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LinearProbingHashST.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756986583" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/QuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414756999398" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/RabinKarp.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757011845" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Shell.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757023785" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/SuffixArray.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757036527" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/TransitiveClosure.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757107881" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/TrieSET.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757119260" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Vector.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757133813" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/WhiteFilter.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757143888" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LRS.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757211902" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LZW.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757225621" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Merge.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415639312521" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/Knuth.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757332381" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/GabowSCC.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414757255635" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/MonteCarloPerculations/PercolationExperimentTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415184331704" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/stdlib/StdDraw.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1414758249512" ignored="false" />
+    <file path="/PercolationExperimentTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415040589550" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/MonteCarloPerculations/PercolationExperiment.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415226400849" ignored="false" />
+    <file path="/PercolationExperiment.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415198144096" ignored="false" />
+    <file path="/a.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418472057274" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/.idea/compiler.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415181465597" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/MonteCarloPerculations/PercolationStats.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415536980118" ignored="false" />
+    <file path="/PercolationStats.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415226663955" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/MonteCarloPerculations/PercolationStatsTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415228254379" ignored="false" />
+    <file path="/PercolationStatsTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415228192269" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/MonteCarloPerculations/InteractivePercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415228817166" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/MonteCarloPerculations/PercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415228800718" ignored="false" />
+    <file path="/PercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415228797542" ignored="false" />
+    <file path="/InteractivePercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415228812944" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/binarySearch/BeatifulBinarySearch.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415266289413" ignored="false" />
+    <file path="/BeatifulBinarySearch.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415267102166" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/binarySearch/BeautifulBinarySearch.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/princeton/algs4/LinkedStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415399190466" ignored="false" />
+    <file path="/LinkedStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415400684154" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/LinkedStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/ArrayStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/ArrayStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415399857857" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/ResizingArrayStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/ResizingArrayStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415399976738" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/LinkedQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/LinkedQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415400486520" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/ArrayQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/ArrayQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415401653605" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/ResizingArrayQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/ResizingArrayQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415401956404" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/ArrayStackGenerics.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/ArrayStackGenerics.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416844110130" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/EvaluateArithmeticExpressionWithStack.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415447780222" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/randomizedQueuesDeques/Deque.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415522170604" ignored="false" />
+    <file path="/Deque.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415487815435" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson2/randomizedQueuesDeques/DequeTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415487953367" ignored="false" />
+    <file path="/DequeTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415486711292" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415548757355" ignored="false" />
+    <file path="/RandomizedGenericQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415548656297" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson2/randomizedQueuesDeques/RandomizedGenericQueueTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415548338269" ignored="false" />
+    <file path="/RandomizedGenericQueueTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415546358248" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/randomizedQueuesDeques/Subset.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415549527026" ignored="false" />
+    <file path="/Subset.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415549484125" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/mergeSort/MergeSortSimple.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/MergeSortSimple.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415638611397" ignored="false" />
+    <file path="/Insertion.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415612250187" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/Point2d.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415614152215" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/Point2D.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418498605034" ignored="false" />
+    <file path="/Point2D.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415614337033" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/mergeSort/Merge.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415639287692" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/mergeSort/MergeTopDown.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/assignment/MonteCarloPerculations/Percolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873571" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/assignment/MonteCarloPerculations/PercolationStats.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873571" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson1/assignment/MonteCarloPerculations/PercolationStatsTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson1/assignment/MonteCarloPerculations/PercolationExperiment.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873571" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/assignment/randomizedQueuesDeques/Subset.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson2/assignment/randomizedQueuesDeques/DequeTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873571" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/assignment/randomizedQueuesDeques/Deque.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873573" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/assignment/patternRecognition/Point.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/Point.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415730853288" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/assignment/patternRecognition/Brute.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873573" ignored="false" />
+    <file path="/Brute.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415702591951" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/input6.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415659132245" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/input8.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415659175100" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/router_conf.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415694990893" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/assignment/patternRecognition/Fast/java.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415701927586" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/assignment/patternRecognition/Fast.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/assignment/patternRecognition/InputParser.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415702549700" ignored="false" />
+    <file path="/InputParser.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415702548548" ignored="false" />
+    <file path="/Fast.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415748537340" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson3/convexHull/assignment/patternRecognition/InOutParser.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson2/dataStructures/GenericLinkedQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/GenericLinkedQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415723656632" ignored="false" />
+    <file path="/InOutParser.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1415723686613" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson4/assignment/puzzle/Board.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/Board.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416847504291" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson4/assignment/puzzle/BoardTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/BoardTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416737875500" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson4/assignment/puzzle/Solver.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/Solver.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416921168960" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/lesson4/assignment/puzzle/SolverTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/SolverTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416754870963" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson4/assignment/puzzle/PuzzleChecker.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/PuzzleChecker.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416749460623" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson4/assignment/puzzle/scribble" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416839628330" ignored="false" />
+    <file path="/*.regexp" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418470127850" ignored="false" />
+    <file path="/MergeTopDown.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1416841615539" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/kdTrees/PointSet.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417437250913" ignored="false" />
+    <file path="/PointSet.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417437460176" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/kdTrees/PointSET.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873573" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/kdTrees/RectHV.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873573" ignored="false" />
+    <file path="/RectHV.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417437403170" ignored="false" />
+    <file path="/PointSET.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417819305757" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/testClients/NearestNeighborVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/testClients/KdTreeGenerator.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/testClients/KdTreeVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/testClients/RangeSearchVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/kdTrees/KdTree.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/KdTree.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417820516054" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/mathStackOverflow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417533067050" ignored="false" />
+    <file path="/mathStackOverflow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417535369751" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/MathStackOverflow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417533082816" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/FibonacciRecursive.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417534054363" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/Fibonacci.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417535370531" ignored="false" />
+    <file path="/Fibonacci.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417535362561" ignored="false" />
+    <file path="/KdTreeVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417694980679" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/lesson5/assignment/testClients/PointSETVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140873572" ignored="false" />
+    <file path="/PointSETVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417695088016" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/src/com/hackingroomba/roombacomm/RoombaCommTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417980080776" ignored="false" />
+    <file path="/RoombaCommTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1417980078917" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/lesson2/assignment/randomizedQueuesDeques/DequeTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/Percolation.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/PercolationExperiment.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/PercolationStats.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/PercolationStatsTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/ThreeSum/ThreeSumDeluxe.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/lesson2/assignment/randomizedQueuesDeques/RandomizedGenericQueueTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/InteractivePercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/ThreeSum/ThreeSumSlow.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/PercolationVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/convexHull/assignment/patternRecognition/InOutParser.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840236" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/lesson1/assignment/MonteCarloPerculations/PercolationExperimentTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/unionFind/QuickFindUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/kdTrees/KdTree.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/assignment/randomizedQueuesDeques/Subset.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/binarySearch/BeautifulBinarySearch.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/unionFind/QuickUnionUF.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/convexHull/assignment/patternRecognition/Fast.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/puzzle/Board.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/unionFind/WeightedQuickUnionPathCompression.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson1/unionFind/WeightedQuickUnionUFmv.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/GenericLinkedQueue.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/testClients/RangeSearchVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840966" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/puzzle/BoardTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/testClients/NearestNeighborVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840966" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/mergeSort/MergeSortSimple.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/LinkedStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/puzzle/Solver.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/ArrayStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/ResizingArrayStackOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/convexHull/Point2D.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/LinkedQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/testClients/PointSETVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/ArrayQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/mergeSort/MergeTopDown.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/ResizingArrayQueueOfStrings.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/testClients/KdTreeVisualizer.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840966" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/ArrayStackGenerics.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/dataStructures/EvaluateArithmeticExpressionWithStack.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse1/puzzle/SolverTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/testClients/KdTreeGenerator.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840966" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/puzzle/PuzzleChecker.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/convexHull/assignment/patternRecognition/Point.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/kdTrees/RectHV.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/convexHull/assignment/patternRecognition/Brute.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/assignment/kdTrees/PointSET.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse1/lesson2/assignment/randomizedQueuesDeques/Deque.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418140840237" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse2/lesson1/assignment/worldnet/SAP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418479188236" ignored="false" />
+    <file path="/SAP.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418479186851" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/test/java/algoCourse2/lesson1/assignment/worldnet/SAPTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418400038070" ignored="false" />
+    <file path="/SAPTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418398645254" ignored="false" />
+    <file path="$USER_HOME$/Documents/mscibarra/workspace/miscellaneous/src/main/java/com/mauro/ConstructorTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418148937977" ignored="false" />
+    <file path="/ConstructorTest.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418148933976" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse2/lesson1/assignment/worldnet/SimpleBFS.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418297200401" ignored="false" />
+    <file path="/SimpleBFS.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418294345221" ignored="false" />
+    <file path="/SET.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418293589374" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/resources/algo2/lesson1/digraph5.txt" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418380755327" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse2/lesson1/assignment/worldnet/WorldNet.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418401105854" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse2/lesson1/assignment/worldnet/WordNet.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418485074522" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/runit.sh" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418464126493" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/build-processing-library.sh" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418464126493" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/scripts/RoombaCommTest.sh" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418464126493" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build/classes/packaging/BSquare-jar.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418464541667" ignored="false" />
+    <file path="$PROJECT_DIR$/../roombaComm/trunk/build.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418467995197" ignored="false" />
+    <file path="/build.xml" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418464517447" ignored="false" />
+    <file path="/WordNet.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418484809879" ignored="false" />
+    <file path="$PROJECT_DIR$/../AlgoCourse1/src/main/java/algoCourse2/lesson1/assignment/worldnet/Outcast.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418498141623" ignored="false" />
+    <file path="/Outcast.java" changelist="dc7a89fe-fc79-4117-ae88-d691b94900e1" time="1418498073018" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,28 +501,25 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="21" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.0">
+            <state line="29" column="0" selection-start="1024" selection-end="1182" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FakeAuctionServer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FakeAuctionServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/server/FakeAuctionServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="44" selection-start="1790" selection-end="1790" vertical-scroll-proportion="2.1035354">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2095#2104#0" expanded="true" />
-              </folding>
+            <state line="7" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuctionSniperEndToEndTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AuctionSniperEndToEndTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/auctionSniper/AuctionSniperEndToEndTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="69" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+            <state line="13" column="3" selection-start="324" selection-end="324" vertical-scroll-proportion="0.04509284">
               <folding />
             </state>
           </provider>
@@ -199,6 +558,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -289,8 +656,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="149" />
+    <option name="x" value="62" />
+    <option name="y" value="33" />
     <option name="width" value="1287" />
     <option name="height" value="576" />
   </component>
@@ -606,6 +973,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -791,7 +1159,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -800,10 +1167,10 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="reference.settings.project.maven.repository.indices" />
+    <property name="options.lastSelected" value="MavenSettings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.50614035" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -1024,28 +1391,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="149" width="1287" height="576" extended-state="0" />
+    <frame x="62" y="33" width="1287" height="576" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56666666" sideWeight="0.5004029" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.041758243" sideWeight="0.5004029" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.27558422" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24939272" sideWeight="0.978022" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24087024" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25101215" sideWeight="0.5201669" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28178138" sideWeight="0.95824176" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48117155" sideWeight="0.4995971" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1121,9 +1488,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/gui/AuctionSniperDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/ui/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="88" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0">
+        <state line="101" column="38" selection-start="3686" selection-end="3686" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1145,10 +1512,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/server/FakeAuctionServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="44" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2095#2104#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,9 +1564,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.jar!/org/hamcrest/MatcherAssert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="-4.8" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="21" selection-start="1349" selection-end="1349" vertical-scroll-proportion="0.0">
+        <state line="29" column="0" selection-start="1024" selection-end="1182" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/auctionSniper/AuctionSniperEndToEndTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="3" selection-start="324" selection-end="324" vertical-scroll-proportion="0.04509284">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/server/FakeAuctionServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/application/ApplicationRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="47" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1214,39 +1604,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.jar!/org/hamcrest/MatcherAssert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="-4.8" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/application/ApplicationRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="47" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/auctionSniper/AuctionSniperEndToEndTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="69" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/ui/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="101" column="38" selection-start="3686" selection-end="3686" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/auctionSniper/server/FakeAuctionServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="44" selection-start="1790" selection-end="1790" vertical-scroll-proportion="2.1035354">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2095#2104#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1330,7 +1691,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.50614035" />
               </list>
             </option>
           </splitter-proportions>
